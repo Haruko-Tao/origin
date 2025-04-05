@@ -1,0 +1,14 @@
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\bin\Debug\net8.0\F_Delegation.exe
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\bin\Debug\net8.0\F_Delegation.deps.json
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\bin\Debug\net8.0\F_Delegation.runtimeconfig.json
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\bin\Debug\net8.0\F_Delegation.dll
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\bin\Debug\net8.0\F_Delegation.pdb
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\obj\Debug\net8.0\F_Delegation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\obj\Debug\net8.0\F_Delegation.AssemblyInfoInputs.cache
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\obj\Debug\net8.0\F_Delegation.AssemblyInfo.cs
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\obj\Debug\net8.0\F_Delegation.csproj.CoreCompileInputs.cache
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\obj\Debug\net8.0\F_Delegation.dll
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\obj\Debug\net8.0\refint\F_Delegation.dll
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\obj\Debug\net8.0\F_Delegation.pdb
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\obj\Debug\net8.0\F_Delegation.genruntimeconfig.cache
+C:\Users\polan\RiderProjects\ConsoleApp1\F_Delegation\obj\Debug\net8.0\ref\F_Delegation.dll
