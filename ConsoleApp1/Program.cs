@@ -8,5 +8,7 @@ class Program
         game.Start();
 
         Console.ReadLine();
+        Console.ReadLine();
+
     }
 }
